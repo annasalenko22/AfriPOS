@@ -1,0 +1,7 @@
+{
+  "name": "AfriPOS - Smart Mobile POS",
+  "description": "A lightweight, offline-first Point of Sale application designed for small businesses. Features inventory management, real-time sales tracking, and AI-powered business insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
